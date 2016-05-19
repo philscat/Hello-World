@@ -1,2 +1,5 @@
 # Hello-World
-Jus another repository
+Just another repository
+
+testing 123
+learning how to commit and fix spelling mistakes
